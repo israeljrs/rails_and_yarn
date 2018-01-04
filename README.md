@@ -1,24 +1,5 @@
-# README
+# Sample the rails 5.1 with yarn.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This sample we create one app which one use yarn with packege maneger to js
+and to propose sample include the bootstrap and sweetalert2.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
