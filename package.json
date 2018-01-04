@@ -1,5 +1,9 @@
 {
   "name": "bootstrap_yarn",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "sweetalert2": "^7.3.2"
+  }
 }
